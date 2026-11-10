@@ -1,0 +1,76 @@
+
+name: JSON to M3U Converter
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'playlist.json'
+      - '.github/workflows/json-to-m3u.yml'
+  schedule:
+    - cron: '*/30 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Convert JSON to M3U
+        run: |
+          python3 - <<'PY'
+          import json
+          import urllib.request
+
+          source = "https://raw.githubusercontent.com/Sagar878796/Hiiki/main/playlist.json"
+
+          request = urllib.request.Request(
+              source,
+              headers={"User-Agent": "GitHub-Actions"}
+          )
+
+          with urllib.request.urlopen(request, timeout=60) as response:
+              data = json.loads(response.read().decode("utf-8"))
+
+          if not isinstance(data, list):
+              raise ValueError("JSON must contain a list")
+
+          lines = ["#EXTM3U"]
+
+          for item in data:
+              name = str(item.get("name", "Unknown")).replace('"', "'")
+              url = item.get("url", "")
+              logo = str(item.get("logo", ""))
+              category = str(item.get("category", "Other"))
+
+              if not url or not str(url).startswith(("https://", "http://")):
+                  continue
+
+              category = category.replace('"', "'")
+
+              lines.append(
+                  f'#EXTINF:-1 tvg-logo="{logo}" group-title="{category}",{name}'
+              )
+              lines.append(url)
+
+          with open("playlist.m3u", "w", encoding="utf-8") as file:
+              file.write("\n".join(lines) + "\n")
+
+          print(f"Converted {len(lines)//2} entries")
+          PY
+
+      - name: Commit M3U Playlist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add playlist.m3u
+          git diff --cached --quiet || (
+            git commit -m "Auto update M3U playlist" &&
+            git push
+          )
+          
