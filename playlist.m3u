@@ -1531,9 +1531,9 @@ https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_1_Hindi_BTS/WDVLive/index.mp
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_HD2_BTS/WDVLive/index.mpd
 #EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/11/30/302116_1749666029079_l_medium.jpg" group-title="Sports",Star Sports 2
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_2_BTS/WDVLive/index.mpd
-#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_medium.jpg" group-title="Sports",Star Sports 2 Hindi HD
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/56/36/301229_1760688472627_l_medium.jpg" group-title="Sports",Star Sports 2 Hindi HD
 https://jiotvpllive.cdn.jio.com//bpk-tv/StarSportsHD2Hin_BTS/WDVLive/index.mpd
-#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/57/17/302124_1749130246443_l_medium.jpg" group-title="Sports",Star Sports 2 Hindi
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/57/17/302124_1760690003311_l_medium.jpg" group-title="Sports",Star Sports 2 Hindi
 https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Hin_BTS/WDVLive/index.mpd
 #EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/78/2/302117_1749666092192_l_medium.jpg" group-title="Sports",Star Sports 3
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports_3_BTS/WDVLive/index.mpd
@@ -1557,7 +1557,7 @@ https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Tamil_BTS/WDVLive/index.mpd
 https://jiotvpllive.cdn.jio.com//bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/index.mpd
 #EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/41/94/301562_1749665043898_l_medium.jpg" group-title="Sports",Star Sports 2 Telugu
 https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Telugu_BTS/WDVLive/index.mpd
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/StarSportsKhel.png" group-title="Sports",Star Sports Khel
+#EXTINF:-1 tvg-logo="https://img.media.jio.com/tvpimages/88/40/301246_1760689454012_l_medium.jpg" group-title="Sports",Star Sports Khel
 https://jiotvpllive.cdn.jio.com/bpk-tv/StarSportsKhel_BTS/WDVLive/index.mpd
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raftaar_Media.png" group-title="News",Raftaar Media
 https://jiotvmblive.cdn.jio.com/bpk-tv/Raftaar_Media_MOB/WDVLive/index.mpd
@@ -2515,19 +2515,11 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Life_MOB/WDVLive/index.mpd
 https://jiotvmblive.cdn.jio.com/bpk-tv/ETV_Telangana_MOB/WDVLive/index.mpd
 #EXTINF:-1 tvg-logo="https://sund-images.sunnxt.com/194347/200x200_ChintuTV_194347_c0bed570-613a-4d5a-8bb8-2b7cd31cb0f8.png" group-title="SUNNXT | STREAMX",Chintu TV
 https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249500_53078_BAR-W_ARS-W_fc-web.jpg" group-title="LIVE SPORTS | STREAMX",Barcelona Women vs Arsenal Women [UEFA Women's Champions League 2026-27]
-https://in-mc-plive.fancode.com/mumbai/4249500_english_hls_ea0c1c592833326_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794591304~_GO=Generated~acl=/mumbai/4249500_english_hls_ea0c1c592833326_1ta-di_h264/*~SessionID=9309450855_watcho_64744435-a46b-4f~Signature=AbO9BjjLx_reNo2X0_5k6-ZoHIhqgWA10E5rsDcKgOFSA1ecKGGDL8M110ovKeQV6fHzyuhwlYJY8Np381JJRd5bmbwM
-#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg" group-title="LIVE SPORTS | STREAMX",Sweden [ATP 250 - Bybit Stockholm Open 2026]
-https://in-mc-plive.fancode.com/mumbai/4250585_english_hls_5479830f9b30919_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794577880~_GO=Generated~acl=/mumbai/4250585_english_hls_5479830f9b30919_1ta-di_h264/*~SessionID=9309450855_watcho_d10f1e52-0afc-42~Signature=AbO9BjgE68M_sN4DchYroLLAQhmhmNJYKkLl_GxeQyLOFNUrLW1RedOVfJx4-Qq0vj4W96HAL5d86dQj-roVeOSHEaoJ
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249671_53087_NSW_SAU_FC-WEB.jpg" group-title="LIVE SPORTS | STREAMX",2026/27]
+https://in-mc-plive.fancode.com/mumbai/4249671_english_hls_4ea963994d63563_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794611952~_GO=Generated~acl=/mumbai/4249671_english_hls_4ea963994d63563_1ta-di_h264/*~SessionID=9309450855_watcho_6849f4f1-a687-49~Signature=AbO9BjjeQFUDTSLAOI7L05SRqZ4oihns-uOB5P8X1H1TI_PENDWMq5UMTD9Gm3gAOWIRkAjegxOG7srek2NrCOrpG6cP
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249672_53087_VCT_WAU_FC-WEB.jpg" group-title="LIVE SPORTS | STREAMX",2026/27]
+https://in-mc-plive.fancode.com/mumbai/4249672_english_hls_774ea9bc0e37693_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794611954~_GO=Generated~acl=/mumbai/4249672_english_hls_774ea9bc0e37693_1ta-di_h264/*~SessionID=9309450855_watcho_8365c41b-ecf8-49~Signature=AbO9BjibbFFgKyr7gMxBVTsrHB9jZnbKB05_YDjpurGJWN7ueyKb7a3LpmviIU-4_mTL03Z0gqEQ4DEHeMCxtRG0Ju0H
+#EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249673_53087_QUN_TAS_FC-WEB.jpg" group-title="LIVE SPORTS | STREAMX",2026/27]
+https://in-mc-plive.fancode.com/mumbai/4249673_english_hls_1f70f8c9aa97142_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794612280~_GO=Generated~acl=/mumbai/4249673_english_hls_1f70f8c9aa97142_1ta-di_h264/*~SessionID=9309450855_watcho_79113f9c-f996-47~Signature=AbO9BjisikmJOZ6nNVCmSDInTOwpOZf33Jl8Ytn-WWZXq0XQHi_KGaJ-buhbVR9SBXSZD28YXrUxPfzHp6b4puRrXqYF
 #EXTINF:-1 tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Austin-championship_Web-match-card.png" group-title="LIVE SPORTS | STREAMX",Featured Group - Day 1 vs Omni Barton Creek Resort & Spa (Fazio Canyons Cour [Austin Championship 2026]
 https://in-mc-plive.fancode.com/mumbai/4250881_english_hls_3b1be586ad16086_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794577881~_GO=Generated~acl=/mumbai/4250881_english_hls_3b1be586ad16086_1ta-di_h264/*~SessionID=9309450855_watcho_4a63ff9f-904e-4c~Signature=AbO9BjgTzWmrYQ10nToikWajiGpF2iaReI2g9M4Uy2ak7XKOh6vPGhPd8y3oUBkjiIuUzH_bwTn_ItzNEmAlgWvv5IoI
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027618/1793185950770769_UNL26_MD5_Turkiye-vs-Belgium_live_landscape_thumb.jpg" group-title="LIVE SPORTS | STREAMX",Türkiye vs Belgium - 12 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794552528~acl=/*~id=65807671661392108678218784186585~hmac=49893262bce38e07133c4791648c0af79217950fcc18b6e78070f3d1f2c2f701
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793254611850508_UNL26_MD5_Armenia-vs-Cyprus_live_landscape_thumb.jpg" group-title="LIVE SPORTS | STREAMX",Armenia vs Cyprus - 12 Nov 2026 [ENG] - UEFA Nations League 2026-27
-https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794552528~acl=/*~id=65807671661392108678218784186585~hmac=49893262bce38e07133c4791648c0af79217950fcc18b6e78070f3d1f2c2f701
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.a358c817-d8b1-48dd-ae41-4bd25baa935a/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",FC Barcelona vs. Arsenal WFC
-https://dash-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.73e1d769-2b15-44d3-bbaf-bb8324e3b6f3/4/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",Triton Poker ONE Series Cyprus-$8K Main Event
-https://hls-ott.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/znpxp4vhyl/out/v1/2a14edb0fa434870a70679d37f5f013c/cenc.mpd
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/S/le-target-images-prod/amzn1.dv.gti.22bcaf15-b559-4039-91e5-699d825da84d/7/BOXART-16X9/en-US._UR1920,1080_CLs%7C1920,1080%7C/G/bundle/BottomRightCardGradient16x9.png,/G/01/digital/video/merch/subs/benefit-id/a-f/freewithads/logos/channels-logo-white.png%7C0,0,1920,1080+0,0,1920,1080+1578,847,263,156_kv053498f62d21803ffcbf28da234cfe9f_SX624_FMjpg_.jpeg" group-title="LIVE SPORTS | STREAMX",Orleans 2026 - Early Rounds - 7
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
